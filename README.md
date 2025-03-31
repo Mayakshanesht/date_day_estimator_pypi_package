@@ -34,5 +34,4 @@ Where:
 - \( K \) is the year of the century (i.e., year % 100),
 - \( J \) is the zero-based century (i.e., year // 100).
 
-The specific formula you've shared is not a complete Zeller's congruence, but it appears to be a variation or part of it, focusing on some constants related to the month and year, potentially for a specific date range or calculation method.
 
